@@ -1,0 +1,15 @@
+*.log
+*.out
+bin/
+build/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
